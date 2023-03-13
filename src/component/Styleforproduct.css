@@ -1,0 +1,23 @@
+
+
+/* .card{
+   display: flex;
+   
+   height: 50px;
+   
+}
+
+.cardHeader{
+  flex: 1;
+  flex-direction: row;
+}
+
+.cardBody{
+  flex: 1;
+  flex-direction: row;
+} */
+
+.carousel-inner img{
+  width:100% ;
+  height: 500px;
+}
